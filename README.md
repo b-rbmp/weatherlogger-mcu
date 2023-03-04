@@ -9,8 +9,8 @@ Microcontroller implementation of a meteorological mini-stations project for the
 
 Implemented in ESP8266, the microcontroller is responsible for collecting data from the sensors and sending them to the MQTT broker.
 
-Frontend implementation in React: [WeatherLogger - Frontend](https://github.com/b-rbmp/weatherlogger-front)
-Backend implementation in FastAPI: [WeatherLogger - Backend](https://github.com/b-rbmp/weatherlogger-backend)
+- Frontend implementation in React: [WeatherLogger - Frontend](https://github.com/b-rbmp/weatherlogger-front)
+- Backend implementation in FastAPI: [WeatherLogger - Backend](https://github.com/b-rbmp/weatherlogger-backend)
 
 ## Live Demo <a name = "demo"></a>
 
